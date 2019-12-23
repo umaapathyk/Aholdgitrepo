@@ -1,0 +1,1 @@
+This is the Sample text file created on the GIT repository
