@@ -1,1 +1,3 @@
 This is the Sample text file created on the GIT repository
+Adding one more new line
+
